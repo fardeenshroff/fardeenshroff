@@ -75,8 +75,56 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ---
 
+
+## 🌟 Projects
+
+Here are some of the *amazing projects* I have worked on:
+
+### 1. *Career Recommendation System (Capstone Project)*
+
+Developed a recommendation system to suggest suitable career paths based on a user's skills and preferences.
+
+[🔗 View the Project Here](https://github.com/yourusername/career-recommendation-system)
+
+---
+
 ## 🚀 Stay in Touch! Let's Collaborate! 🚀
 
 ---
 
+## 🔗 Connect with Me
+
+Click on any of the *animated icons* below to reach out and connect with me!
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s;">
+        <p>LinkedIn</p>
+    </a>
+    <a href="https://github.com/yourusername" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="transition: transform 0.3s;">
+        <p>GitHub</p>
+    </a>
+    <a href="https://github.com/yourusername/yourresume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume" width="50" height="50" style="transition: transform 0.3s;">
+        <p>Resume</p>
+    </a>
+    <a href="https://github.com/yourusername/career-recommendation-system" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Graduation_cap_icon.svg" alt="Capstone Project" width="50" height="50" style="transition: transform 0.3s;">
+        <p>Capstone Project</p>
+    </a>
+    <a href="mailto:your.email@example.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Email_icon.svg" alt="Email" width="50" height="50" style="transition: transform 0.3s;">
+        <p>Email</p>
+    </a>
+</div>
+
+### 📝 Email for Inquiries:
+You can also reach me directly via email: *your.email@example.com* 
+
+---
 © 2025 Fardeen Shroff
+
+
+
+
