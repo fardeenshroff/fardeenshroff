@@ -60,7 +60,7 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ## 📄 Resume
 
-[![View My Resume](https://img.shields.io/badge/-View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([LINK_TO_YOUR_RESUME](https://github.com/fardeenshroff/resume/upload))
+[![View My Resume](https://img.shields.io/badge/-View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)(https://github.com/fardeenshroff/resume/upload)(https://github.com/fardeenshroff/resume/upload))
 
 ---
 
