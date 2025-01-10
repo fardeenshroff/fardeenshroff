@@ -83,7 +83,7 @@ Here are some of the *amazing projects* I have worked on:
 
 Developed a recommendation system to suggest suitable career paths based on a user's skills and preferences.
 
-[🔗 View the Project Here](https://github.com/yourusername/career-recommendation-system)
+[🔗 View the Project Here](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
 
 ---
 
