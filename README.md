@@ -3,7 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I'm+Fardeen+Shroff!;Let's+build+something+amazing!;Happy+Coding!)
 
----
 
 ## 👨‍💻 About Me  
 Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineering** specializing in **Computer Software Systems** at the **Prestigious Illinois Institute of Technology**. My passion lies in crafting innovative solutions using cutting-edge technologies, with a focus on software design, cybersecurity, and machine learning.
@@ -61,7 +60,7 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 ### *Research Projects*
 
 <ul>
-  <li>🖼️ *Project 1: Image Processing Experiment*  
+  <li>🖼️ **Project 1: Image Processing Experiment**  
       Conducted experiments to enhance and process digital images using advanced algorithms.</li>
   <li>🚦 *Project 2: Traffic Light Controller*  
       Designed a reliable and efficient traffic light controller system using hardware description languages.</li>
