@@ -108,18 +108,18 @@ Click on any of the *animated icons* below to reach out and connect with me!
         <img src="https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume" width="50" height="50" style="transition: transform 0.3s;">
         <p>Resume</p>
     </a>
-    <a href="https://github.com/yourusername/career-recommendation-system" target="_blank">
+    <a href="https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Graduation_cap_icon.svg" alt="Capstone Project" width="50" height="50" style="transition: transform 0.3s;">
         <p>Capstone Project</p>
     </a>
-    <a href="mailto:your.email@example.com" target="_blank">
+    <a href="mailto:fshroff1@hawk.iit.edu" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Email_icon.svg" alt="Email" width="50" height="50" style="transition: transform 0.3s;">
         <p>Email</p>
     </a>
 </div>
 
 ### 📝 Email for Inquiries:
-You can also reach me directly via email: *your.email@example.com* 
+You can also reach me directly via email: *fshroff1@hawk.illinoistech.edu* 
 
 ---
 © 2025 Fardeen Shroff
