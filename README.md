@@ -75,8 +75,36 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ---
 
-### 🌠 Let's Connect!  
-Don’t forget to ⭐ my repositories if you find them interesting!
+# 🌟 Connect With Me! 🌟
+
+---
+
+## 🚀 Stay in Touch! Let's Collaborate! 🚀
+
+---
+
+# 🌟 Connect With Me! 🌟
+
+---
+
+## 🚀 Stay in Touch! Let's Collaborate! 🚀
+
+<pre>
+1️⃣ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  
+   [🔗 LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinusername) 🌐
+
+2️⃣ ![Resume](https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white)  
+   [📄 Download Resume](https://github.com/yourusername/yourresume.pdf) 📑
+
+3️⃣ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+   [🌍 Visit My GitHub](https://github.com/yourusername) 💻
+
+4️⃣ ![Capstone](https://img.shields.io/badge/Capstone_Project-%2335C75A?style=for-the-badge&logo=rocket&logoColor=white)  
+   [💡 Career Recommendation System](https://github.com/yourusername/career-recommendation-system) 🎯
+
+5️⃣ ![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)  
+   [📧 Send an Email](mailto:your.email@example.com) 📬
+</pre>
 
 ---
 
