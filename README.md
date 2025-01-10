@@ -100,11 +100,11 @@ Click on any of the *animated icons* below to reach out and connect with me!
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s;">
         <p>LinkedIn</p>
     </a>
-    <a href="https://github.com/yourusername" target="_blank">
+    <a href="https://github.com/fardeenshroff" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="transition: transform 0.3s;">
         <p>GitHub</p>
     </a>
-    <a href="https://github.com/yourusername/yourresume.pdf" target="_blank">
+    <a href="https://github.com/fardeenshroff/resume" target="_blank">
         <img src="https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume" width="50" height="50" style="transition: transform 0.3s;">
         <p>Resume</p>
     </a>
