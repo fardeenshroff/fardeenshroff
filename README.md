@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineering** specializing in **Computer Software Systems** at the Prestigious Illinois Institute of Technology. My passion lies in crafting innovative solutions using cutting-edge technologies, with a focus on software design, cybersecurity, and machine learning.
+Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineering** specializing in **Computer Software Systems** at the ** Prestigious Illinois Institute of Technology**. My passion lies in crafting innovative solutions using cutting-edge technologies, with a focus on software design, cybersecurity, and machine learning.
 
 ---
 
@@ -42,7 +42,7 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ---
 
-## 🌟 Fun Animation  
+## 🌟 Tech In Motion  
 ![Coding Animation](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 ---
