@@ -58,22 +58,6 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ---
 
-## 📄 Resume
-
-[![View My Resume](https://img.shields.io/badge/-View%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)(https://github.com/fardeenshroff/resume/upload)(https://github.com/fardeenshroff/resume/upload))
-
----
-
-## 🔬 Research Project
-
-### *Project Title: [Capstone Project (B.E): Career Recommendation System]*
-
-Published in TIJER - International Research Journal ISSN: 2349-9249, Vol.10, Issue 4, page nos. 187-203, Issue April 2023 
-
-[![Read More](https://img.shields.io/badge/-Read%20More-critical?style=for-the-badge&logo=github&logoColor=white)]((https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165))
-
----
-
 ### *Research Projects*
 
 <ul>
