@@ -75,15 +75,7 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ---
 
-# 🌟 Connect With Me! 🌟
-
----
-
 ## 🚀 Stay in Touch! Let's Collaborate! 🚀
-
----
-
-# 🌟 Connect With Me! 🌟
 
 ---
 
@@ -91,9 +83,8 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 <pre>
 1️⃣ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)  
-   [🔗 LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinusername) 🌐
-
-2️⃣ ![Resume](https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white)  
+   [🔗 LinkedIn Profile](
+](https://www.linkedin.com/in/fardeen-shroff-07930b221)2️⃣ ![Resume](https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white)  
    [📄 Download Resume](https://github.com/yourusername/yourresume.pdf) 📑
 
 3️⃣ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
