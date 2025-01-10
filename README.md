@@ -66,11 +66,11 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 
 ## 🔬 Research Project
 
-### *Project Title: [Your Project Name]*
+### *Project Title: [Capstone Project (B.E): Career Recommendation System]*
 
-> *Abstract:* A brief description of the project. Explain its purpose, methodology, and key findings in 2-3 sentences.
+Published in TIJER - International Research Journal ISSN: 2349-9249, Vol.10, Issue 4, page nos. 187-203, Issue April 2023 
 
-[![Read More](https://img.shields.io/badge/-Read%20More-critical?style=for-the-badge&logo=github&logoColor=white)](LINK_TO_YOUR_PROJECT)
+[![Read More](https://img.shields.io/badge/-Read%20More-critical?style=for-the-badge&logo=github&logoColor=white)]((https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165))
 
 ---
 
