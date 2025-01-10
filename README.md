@@ -96,7 +96,7 @@ Developed a recommendation system to suggest suitable career paths based on a us
 Click on any of the *animated icons* below to reach out and connect with me!
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">
+    <a href="https://www.linkedin.com/in/fardeen-shroff-07930b221">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s;">
         <p>LinkedIn</p>
     </a>
