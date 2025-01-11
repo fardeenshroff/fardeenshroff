@@ -124,6 +124,10 @@ You can also reach me directly via email: *fshroff1@hawk.illinoistech.edu*
 ---
 © 2025 Fardeen Shroff
 
+### Connect with Me
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/fardeen-shroff-07930b221")
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/fardeenshroff)
+[![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=pdf&logoColor=white)](https://linktotheyourresume.com)
+[![Capstone](https://img.shields.io/badge/Capstone-%23000000?style=flat&logo=git&logoColor=white)](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)
