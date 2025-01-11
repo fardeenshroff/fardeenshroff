@@ -7,7 +7,18 @@
 ## 👨‍💻 About Me  
 Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineering** specializing in **Computer Software Systems** at the **Prestigious Illinois Institute of Technology**. My passion lies in crafting innovative solutions using cutting-edge technologies, with a focus on software design, cybersecurity, and machine learning.
 
----
+
+## 📚 Educational Background  
+🎓 **Master of Science in Computer Engineering**  
+- **Specialization**: Computer Software Systems  
+- **Institute**: Illinois Institute of Technology  
+- **Expected Graduation**: May 2025  
+
+
+## 🌟 Tech In Motion  
+![Coding Animation](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+
+
 ## 💻 Languages and Tools
 
 > "Here are the technologies I have worked with:"
@@ -33,29 +44,6 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   
 </div>
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FardeenShroff&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardeenShroff&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 📚 Educational Background  
-🎓 **Master of Science in Computer Engineering**  
-- **Specialization**: Computer Software Systems  
-- **Institute**: Illinois Institute of Technology  
-- **Expected Graduation**: May 2025  
-
----
-
-## 🌟 Tech In Motion  
-![Coding Animation](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
-
----
 
 ### *Research Projects*
 
@@ -72,8 +60,6 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
       Designed and analyzed a basic cryptography algorithm to secure sensitive data.</li>
 </ul>
 
----
-
 
 ## 🌟 Projects
 
@@ -85,7 +71,14 @@ Developed a recommendation system to suggest suitable career paths based on a us
 
 [🔗 View the Project Here](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
 
----
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FardeenShroff&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardeenShroff&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 
 ## 🚀 Stay in Touch! Let's Collaborate! 🚀
 ### Connect with Me
@@ -96,6 +89,5 @@ Developed a recommendation system to suggest suitable career paths based on a us
 [![Capstone](https://img.shields.io/badge/Capstone-%23000000?style=flat&logo=git&logoColor=white)](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)---
 
----
 
 © 2025 Fardeen Shroff
