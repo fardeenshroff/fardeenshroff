@@ -87,7 +87,7 @@ Developed a recommendation system to suggest suitable career paths based on a us
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/fardeenshroff)
 [![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=pdf&logoColor=white)](https://linktotheyourresume.com)
 [![Capstone](https://img.shields.io/badge/Capstone-%23000000?style=flat&logo=git&logoColor=white)](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)---
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)
 
 
 © 2025 Fardeen Shroff
