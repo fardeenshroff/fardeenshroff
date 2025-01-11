@@ -88,46 +88,14 @@ Developed a recommendation system to suggest suitable career paths based on a us
 ---
 
 ## 🚀 Stay in Touch! Let's Collaborate! 🚀
-
----
-
-## 🔗 Connect with Me
-
-Click on any of the *animated icons* below to reach out and connect with me!
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/fardeen-shroff-07930b221">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="50" height="50" style="transition: transform 0.3s;">
-        <p>LinkedIn</p>
-    </a>
-    <a href="https://github.com/fardeenshroff" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="transition: transform 0.3s;">
-        <p>GitHub</p>
-    </a>
-    <a href="https://github.com/fardeenshroff/resume" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-%23FF0000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume" width="50" height="50" style="transition: transform 0.3s;">
-        <p>Resume</p>
-    </a>
-    <a href="https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Graduation_cap_icon.svg" alt="Capstone Project" width="50" height="50" style="transition: transform 0.3s;">
-        <p>Capstone Project</p>
-    </a>
-    <a href="mailto:fshroff1@hawk.iit.edu" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Email_icon.svg" alt="Email" width="50" height="50" style="transition: transform 0.3s;">
-        <p>Email</p>
-    </a>
-</div>
-
-### 📝 Email for Inquiries:
-You can also reach me directly via email: *fshroff1@hawk.illinoistech.edu* 
-
----
-© 2025 Fardeen Shroff
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardeen-shroff-07930b221)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/fardeenshroff)
 [![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=pdf&logoColor=white)](https://linktotheyourresume.com)
 [![Capstone](https://img.shields.io/badge/Capstone-%23000000?style=flat&logo=git&logoColor=white)](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)---
+
+---
+
+© 2025 Fardeen Shroff
