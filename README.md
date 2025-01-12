@@ -45,6 +45,14 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
   
 </div>
 
+---
+
+## 🤝 Collaboration in Action  
+![Collaboration Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+Working together to build innovative solutions and contribute to the global tech community.
+
+---
+
 ### *Research Projects*
 
 <ul>
@@ -60,6 +68,7 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
       Designed and analyzed a basic cryptography algorithm to secure sensitive data.</li>
 </ul>
 
+---
 
 ## 🌟 Projects
 
@@ -71,6 +80,13 @@ Developed a recommendation system to suggest suitable career paths based on a us
 
 [🔗 View the Project Here](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
 
+---
+
+## 💻 Teaching Programming to Beginners  
+![Teaching Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+Empowering students and developers by creating step-by-step programming guides and resources.
+
+---
 
 ## 📈 GitHub Stats  
 
@@ -79,26 +95,10 @@ Developed a recommendation system to suggest suitable career paths based on a us
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardeenShroff&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+---
 
 ## 🚀 Stay in Touch! Let's Collaborate! 🚀
 ### Connect with Me
-
----
-
-### 🤝 Collaboration at Its Best  
-![Collaboration Animation](https://user-images.githubusercontent.com/12345678/collaboration-animation.gif)  
-I believe in teamwork and contributing to open-source projects to create innovative solutions.
-
----
-
-### 💻 Imparting Knowledge  
-![Teaching Programming Animation](https://user-images.githubusercontent.com/12345678/teaching-animation.gif)  
-Empowering students to learn programming languages and develop real-world skills through engaging and practical resources.
-
----
-
-Explore my repositories to learn more and join me on this exciting journey of growth, innovation, and knowledge-sharing!
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardeen-shroff-07930b221)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/fardeenshroff)
@@ -106,6 +106,7 @@ Explore my repositories to learn more and join me on this exciting journey of gr
 [![Capstone](https://img.shields.io/badge/Capstone-%23000000?style=flat&logo=git&logoColor=white)](https://tijer.org/tijer/viewpaperforall.php?paper=TIJER2304165)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:fshroff1@hawk.iit.edu)
 
+---
 
 © 2025 Fardeen Shroff
 
