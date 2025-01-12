@@ -83,6 +83,21 @@ Developed a recommendation system to suggest suitable career paths based on a us
 ## 🚀 Stay in Touch! Let's Collaborate! 🚀
 ### Connect with Me
 
+---
+
+### 🤝 Collaboration at Its Best  
+![Collaboration Animation](https://user-images.githubusercontent.com/12345678/collaboration-animation.gif)  
+I believe in teamwork and contributing to open-source projects to create innovative solutions.
+
+---
+
+### 💻 Imparting Knowledge  
+![Teaching Programming Animation](https://user-images.githubusercontent.com/12345678/teaching-animation.gif)  
+Empowering students to learn programming languages and develop real-world skills through engaging and practical resources.
+
+---
+
+Explore my repositories to learn more and join me on this exciting journey of growth, innovation, and knowledge-sharing!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardeen-shroff-07930b221)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/fardeenshroff)
 [![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=pdf&logoColor=white)](https://github.com/fardeenshroff/resume/blob/main/FARDEEEN%20SHROFF%20RESUME%20DECEMBER%202024%20FINAL.pdf)
