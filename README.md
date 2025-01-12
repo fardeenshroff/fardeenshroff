@@ -83,7 +83,7 @@ Developed a recommendation system to suggest suitable career paths based on a us
 ---
 
 ## 💻 Teaching Programming to Beginners  
-![Teaching Animation](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+![Teaching Animation](https://media.giphy.com/media/7c8zUY2t0dsEcxu5on/giphy.gif)  
 Empowering students and developers by creating step-by-step programming guides and resources.
 
 ---
