@@ -48,15 +48,15 @@ Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineeri
 ### *Research Projects*
 
 <ul>
-  <li>🖼️ **Project 1: Image Processing Experiment**  
+  <li>🖼️ Project 1: Image Processing Experiment
       Conducted experiments to enhance and process digital images using advanced algorithms.</li>
-  <li>🚦 *Project 2: Traffic Light Controller*  
+  <li>🚦 Project 2: Traffic Light Controller 
       Designed a reliable and efficient traffic light controller system using hardware description languages.</li>
-  <li>💡 *Project 3: 8-Bit Barrel Shifter Unit*  
+  <li>💡 Project 3: 8-Bit Barrel Shifter Unit 
       Developed a hardware unit capable of circular shifts and rotations for 8-bit data.</li>
-  <li>🔄 *Project 4: Linear Feedback Shift Register (LFSR)*  
+  <li>🔄 Project 4: Linear Feedback Shift Register (LFSR)  
       Implemented an LFSR for generating pseudo-random sequences with applications in cryptography.</li>
-  <li>🔐 *Project 5: Simple Cryptography Algorithm*  
+  <li>🔐 Project 5: Simple Cryptography Algorithm  
       Designed and analyzed a basic cryptography algorithm to secure sensitive data.</li>
 </ul>
 
