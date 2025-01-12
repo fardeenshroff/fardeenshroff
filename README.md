@@ -98,6 +98,8 @@ Empowering students to learn programming languages and develop real-world skills
 ---
 
 Explore my repositories to learn more and join me on this exciting journey of growth, innovation, and knowledge-sharing!
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardeen-shroff-07930b221)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/fardeenshroff)
 [![Resume](https://img.shields.io/badge/Resume-%23000000?style=flat&logo=pdf&logoColor=white)](https://github.com/fardeenshroff/resume/blob/main/FARDEEEN%20SHROFF%20RESUME%20DECEMBER%202024%20FINAL.pdf)
@@ -106,3 +108,5 @@ Explore my repositories to learn more and join me on this exciting journey of gr
 
 
 © 2025 Fardeen Shroff
+
+---
