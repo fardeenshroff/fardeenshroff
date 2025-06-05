@@ -5,14 +5,14 @@
 
 
 ## 👨‍💻 About Me  
-Hi there! I’m **Fardeen Shroff**, a Master’s student in **Computer Engineering** specializing in **Computer Software Systems** at the **Prestigious Illinois Institute of Technology**. My passion lies in crafting innovative solutions using cutting-edge technologies, with a focus on software design, cybersecurity, and machine learning.
+Hi there! I’m **Fardeen Shroff**, a Master’s in **Computer Engineering** specializing in **Computer Software Systems** from the **Prestigious Illinois Institute of Technology**. My passion lies in crafting innovative solutions using cutting-edge technologies, with a focus on software design, cybersecurity, and machine learning.
 
 
 ## 📚 Educational Background  
 🎓 **Master of Science in Computer Engineering**  
 - **Specialization**: Computer Software Systems  
 - **Institute**: Illinois Institute of Technology  
-- **Expected Graduation**: May 2025  
+- **Graduated**: May 2025  
 
 
 ## 🌟 Tech In Motion  
