@@ -34,8 +34,8 @@ int main(int argc, char **argv) {
         return 1;
     }
     for (size_t i = 0; i < count; ++i) {
-        a[i] = (float)((i % 17) - 8) / 16.0f;
-        b[i] = (float)((i % 13) - 6) / 16.0f;
+        a[i] = (float)((int)(i % 17) - 8) / 16.0f;
+        b[i] = (float)((int)(i % 13) - 6) / 16.0f;
     }
     double t0 = seconds_now();
     for (int i = 0; i < n; ++i) {
