@@ -53,6 +53,21 @@ Working together to build innovative solutions and contribute to the global tech
 
 ---
 
+## Research Projects Being Reconstructed
+
+The following projects are **newly staged for source recovery and independent validation**. The workspaces contain original reference code or research protocols prepared in November 2026; **they do not claim to be recovered copies of historical code or verified historical benchmarks**.
+
+| Project | Available staging materials | Status |
+|---|---|---|
+| [Chipyard + Gemmini accelerator study](research-incubator/chipyard-gemmini/README.md) | Portable C matrix-multiplication reference, evidence checklist | Original accelerator code/logs pending |
+| [32-bit CPU / modified ALU](research-incubator/cpu32-modified-alu/README.md) | New Verilog ALU, self-checking testbench, simulation Makefile | Full original processor RTL pending |
+| [NeoCPU CNN inference](research-incubator/neocpu-cnn-inference/README.md) | New NumPy reference vs. im2col comparison, correctness tests | Original optimization code/logs pending |
+| [Diffusion-model backdoor research](research-incubator/diffusion-backdoor-research/README.md) | Controlled research protocol and evidence inventory | Original experiment source and report pending |
+
+[Explore the four-project restoration workspace](research-incubator/README.md). Existing GitHub projects are intentionally not duplicated.
+
+---
+
 ### *Research Projects*
 
 <ul>
